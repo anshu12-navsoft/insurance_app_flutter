@@ -41,6 +41,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+<string>We need camera access to allow you to upload a photo of the damage.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>We need photo library access to allow you to select a photo of the damage.</string>
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>We need access to save photos if needed.</string>
+
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
